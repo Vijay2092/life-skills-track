@@ -144,6 +144,6 @@ Consider a monolithic codebase for a web application handling user authenticatio
 Object-Oriented Programming (OOP) provides powerful concepts and principles for designing, refactoring, and maintaining software systems. By applying encapsulation, inheritance, polymorphism, and abstraction, developers can create modular, reusable, and scalable codebases that are easier to understand, extend, and maintain. Through careful refactoring, monolithic codebases can be transformed into well-structured, maintainable systems, ensuring long-term success and sustainability of the software.
 
 **References**
-1.Introduction to Object Oriented Programming Concepts (OOP) and More by L.W.C. Nirosh(https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
-2.OOP Concepts (Java Tutorials)(https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
-3.What Are OOP Concepts in Java? How They Work and More(https://stackify.com/oops-concepts-in-java)
+1. [Introduction to Object Oriented Programming Concepts (OOP) and More by L.W.C. Nirosh](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)
+2. [OOP Concepts (Java Tutorials)](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
+3. [What Are OOP Concepts in Java? How They Work and More](https://stackify.com/oops-concepts-in-java)
